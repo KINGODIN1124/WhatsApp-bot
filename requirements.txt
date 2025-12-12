@@ -1,3 +1,4 @@
 Flask
 twilio
-gunicorn # Gunicorn is the production server Render requires
+gunicorn
+Flask-Mail
